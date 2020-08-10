@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for todolist",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roy Tay Conghan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "uuid": "^8.3.0"
+  }
+}
