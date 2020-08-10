@@ -32,11 +32,6 @@ function calculateMeta(ingredient) {
   };
 }
 
-function sum(a, b) {
-  return a + b;
-}
-
-exports.sum = sum;
 exports.calculateCostPerUnit = calculateCostPerUnit;
 exports.calculateMeta = calculateMeta;
 exports.calculateCostPerUnitHelper = calculateCostPerUnitHelper;
