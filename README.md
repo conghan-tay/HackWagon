@@ -1,9 +1,9 @@
 # HackWagon
 
-Recipe folder includes the functions for Recipe Calculator. More info can be found in the README.md of 
-Recipe folder.
+Recipe folder includes the functions for Recipe Calculator. <br/>
+More info can be found in the README.md of Recipe folder. <br/>
 
-my-app folder contains the Reactjs project for a simple todo list. \n
-backend folder contains express.js API for the React project
-cd into backend and run `npm start`
-cd into my-app and run `npm start`
+my-app folder contains the Reactjs project for a simple todo list.<br/>
+backend folder contains express.js API for the React project <br/>
+cd into backend and run `npm start` <br/>
+cd into my-app and run `npm start` <br/>
